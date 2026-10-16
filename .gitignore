@@ -1,3 +1,24 @@
+# Dataset
+data/
+datasets/
+
+# Model checkpoints
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Experiment outputs
+outputs/
+logs/
+wandb/
+
+# Large data files
+*.pkl
+*.h5
+*.fast5
+*.pod5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
