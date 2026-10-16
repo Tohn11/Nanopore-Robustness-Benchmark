@@ -1,6 +1,5 @@
 # Dataset
 data/
-datasets/
 
 # Model checkpoints
 checkpoints/
