@@ -62,6 +62,7 @@
 ## 7. 项目结构
 
 ```text
+/mnt/zzbnew/rnamodel/likaifeng/Nanopore-Robustness-Benchmark
 Nanopore-Robustness-Benchmark/
 ├── README.md                 # 项目说明
 ├── pyproject.toml            # Python 项目与依赖配置
